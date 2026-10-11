@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Zakhar%20Ushakov&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=20IT%20Engineer%20@%20VK&descSize=20&descAlignY=60&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Zakhar%20Ushakov&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=IT%20Engineer%20@%20VK&descSize=20&descAlignY=60&descAlign=50" alt="Header Banner" />
 </div>
 
 <!-- Introduction -->
