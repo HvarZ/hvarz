@@ -140,41 +140,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hvarz&theme=react-dark&hide_border=true&area=true&line=58a6ff&point=ffffff&color=8b949e&bg_color=0d1117)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-### Open to opportunities and collaborations!
-
-[![Email](https://img.shields.io/badge/Send_Email-hvarzakhar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvarzakhar@gmail.com)
-[![Telegram](https://img.shields.io/badge/Message_Me-@hvarzakhar-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hvarzakhar)
-[![GitHub](https://img.shields.io/badge/Follow_Me-hvarz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hvarz)
-
-</div>
-
----
-
-<!-- Profile Views Counter -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hvarz&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github)
-
-![GitHub Followers](https://img.shields.io/github/followers/hvarz?label=Followers&style=for-the-badge&logo=github&color=2ea44f)
-
-</div>
-
----
-
 <p align="center">
   <em>Last updated: October 2026</em>
 </p>
