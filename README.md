@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Zakhar%20Ushakov&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Lead%20IT%20Engineer%20@%20SberTech&descSize=20&descAlignY=60&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Zakhar%20Ushakov&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=20IT%20Engineer%20@%20VK&descSize=20&descAlignY=60&descAlign=50" alt="Header Banner" />
 </div>
 
 <!-- Introduction -->
@@ -27,7 +27,7 @@
 | :--- | :--- |
 | Developing **RAGFlow** low-code platform | 🟢 In Progress |
 | Improving **Developer Productivity** | 🟢 Active |
-| Exploring **AI Engineering & LLM** | 🟡 Learning |
+| Exploring **AI Engineering & LLM** | 🟢 Learning |
 | Building **Distributed Systems** | 🟢 Core Focus |
 
 </div>
@@ -176,5 +176,5 @@
 ---
 
 <p align="center">
-  <em>Last updated: March 2026</em>
+  <em>Last updated: October 2026</em>
 </p>
